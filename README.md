@@ -1,13 +1,17 @@
 # Playwright: Wizard Bank test project
 
-This project implements test coverage for the [Wizard Bank](https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login) functionality. 
+This project implements UI test automation for the [Wizard Bank](https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login) using Playwright and Page Object Model (POM).
+The suite covers key user flows for Manager and Customer roles.
 
-## Task description
-Please read the [instructions](TaskDescription.md) in order to complete this task.
+# Tech Stack
+- Playwright (JavaScript)
+
+- Page Object Model (POM)
+
+- Faker.js (dynamic test data generation)
 
 # Test coverage
-
-- Customer:
+  - Customer:
   - Account Operations
   - Logout
   - Transactions

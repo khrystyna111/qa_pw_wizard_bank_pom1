@@ -3,7 +3,7 @@
 This project implements UI test automation for the [Wizard Bank](https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login) using Playwright and Page Object Model (POM).
 The suite covers key user flows for Manager and Customer roles.
 
-# Tech Stack
+## Tech Stack
 - Playwright (JavaScript)
 
 - Page Object Model (POM)
@@ -15,7 +15,6 @@ The suite covers key user flows for Manager and Customer roles.
   - Account Operations
   - Logout
   - Transactions
-    
 - **Manager**
   - Bank manager login
   - Adding new customer
@@ -23,7 +22,7 @@ The suite covers key user flows for Manager and Customer roles.
   - Deleting a customer
   - Searching a customer
   
-# How to run the tests
+## How to Run the Tests
 
 ## Install project
 ```bash

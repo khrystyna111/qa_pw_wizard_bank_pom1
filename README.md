@@ -10,6 +10,11 @@ The suite covers key user flows for Manager and Customer roles.
 
 - Faker.js (dynamic test data generation)
 
+## Project Structure
+- /tests – test specifications grouped by role (Manager / Customer)
+- /src/pages – Page Object classes
+- playwright.config.js – test configuration
+
 ## Test Coverage
 - **Customer**
   - Account Operations

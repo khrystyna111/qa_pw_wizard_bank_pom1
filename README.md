@@ -10,18 +10,19 @@ The suite covers key user flows for Manager and Customer roles.
 
 - Faker.js (dynamic test data generation)
 
-# Test coverage
-  - Customer:
+## Test Coverage
+- **Customer**
   - Account Operations
   - Logout
   - Transactions
-- Manager:
+    
+- **Manager**
   - Bank manager login
   - Adding new customer
   - Adding new account for the customer
   - Deleting a customer
   - Searching a customer
-
+  
 # How to run the tests
 
 ## Install project
